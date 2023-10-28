@@ -9,7 +9,7 @@ A user management system called "Facebook simulator" works with a console comman
 6. Exit the program!
 
 The .txt file is used as a database in the console application
-Once the program is run file called "Facebook.txt" is created to save data input from the user by following the format in the .txt file :
+Once the program is run file called "Facebook.txt" is created to save data input from the user by following format in the .txt file :
 
 "Name" "surname" "nickname" "birthplace" "birthday YYYY MM DD" "Inviter"
 
